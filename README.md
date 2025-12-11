@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://github.com/Jasminsota/Jasminsota/blob/353faf570bbc726b32fe0c0b61bfd8f388ea75e6/ImagenJazmin.jpeg">
+</div>
 <!--
 **Jasminsota/Jasminsota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
